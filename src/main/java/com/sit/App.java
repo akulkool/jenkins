@@ -7,3 +7,4 @@ public class App {
         System.out.println("Application running successfully!");
     }
 }
+// Test build
